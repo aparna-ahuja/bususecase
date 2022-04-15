@@ -1,0 +1,12 @@
+package com.practice.busrouteservice.repository;
+
+import org.springframework.stereotype.Repository;
+
+import com.practice.busrouteservice.entity.BusRoute;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+@Repository
+public Interface BusRouteRepository extends JpaRepository<BusRoute , Integer>{
+
+}

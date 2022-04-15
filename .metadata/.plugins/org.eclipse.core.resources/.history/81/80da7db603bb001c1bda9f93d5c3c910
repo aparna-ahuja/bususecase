@@ -1,0 +1,13 @@
+package com.practice.busservicecloudgateway;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BusServiceCloudGatewayApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BusServiceCloudGatewayApplication.class, args);
+	}
+
+}

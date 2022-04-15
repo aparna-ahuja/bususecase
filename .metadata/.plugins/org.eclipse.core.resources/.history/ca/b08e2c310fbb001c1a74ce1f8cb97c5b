@@ -1,0 +1,13 @@
+package com.practice.busservicehystrixdashboard;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BusServiceHystrixDashboardApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BusServiceHystrixDashboardApplication.class, args);
+	}
+
+}

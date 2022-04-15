@@ -1,0 +1,13 @@
+1649684643569	Rename package 'com.practice.busservice'
+1649684662790	Rename type 'BusServiceApplication'
+1649684699584	Rename package 'com.practice.busservice.controller'
+1649684721084	Rename type 'BusController'
+1649684757324	Rename package 'com.practice.busservice.entity'
+1649684771702	Rename type 'Bus'
+1649684790148	Rename package 'com.practice.busservice.repository'
+1649684803175	Rename type 'BusRepository'
+1649684813729	Rename package 'com.practice.busservice.service'
+1649684830811	Rename type 'BusService'
+1649733902200	Rename package 'com.practice'
+1649734362218	Delete element
+1649828168443	Copy compilation unit

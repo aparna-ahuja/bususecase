@@ -1,0 +1,5 @@
+package com.practice.busrouteservice.entity;
+
+public class BusRoute {
+
+}

@@ -1,0 +1,5 @@
+package com.practice.busrouteservice.Service;
+
+public class BusRouteService {
+
+}

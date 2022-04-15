@@ -1,0 +1,19 @@
+package com.practice;
+
+import org.springframework.boot.test.context.SpringBootTest;
+
+import com.practice.busrouteservice.BusRouteServiceApplication;
+import com.practice.busrouteservice.Service.BusRouteService;
+import org.springframework.boot.test.mock.mockito.MockBean;
+import org.springframework.boot.web.server.LocalServerPort;
+
+@SpringBootTest(classes = BusRouteServiceApplication.class, webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
+public class BusRouteControllerTest {
+	
+	@MockBean
+	private BusRouteService busRouteSrvice;
+	
+	@LocalServerPort
+	private int port;
+
+}
